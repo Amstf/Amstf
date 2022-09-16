@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🔭 &nbsp;I’m currently a research and development engineer at Télécom Paris, IP Paris..\
+🔭 &nbsp;I’m currently a research and development engineer at Télécom Paris, IP Paris.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ali_mustapha_@outlook.com! I'll try to respond as soon as I can.\
-    &nbsp;Conncet with me on LinkedIn: https://www.linkedin.com/in/ali-mustapha-476375208/
+    &nbsp;Conncet with me on LinkedIn: https://www.linkedin.com/in/ali-mustapha-476375208/.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A9zPM_vKvOjY8D2Go8nmCk5IdCr2fY8H/view) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
