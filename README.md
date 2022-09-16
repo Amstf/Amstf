@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a research and development engineer at Télécom Paris, IP Paris.
 - 💬 Ask me about Supervised Deep Leraning.
 - 📫 How to reach me: ali_mustapha_@outlook.com
+- Read my medium Blog: https://medium.com/@amstf74
 - Conncet with me on LinkedIn: https://www.linkedin.com/in/ali-mustapha-476375208/
