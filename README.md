@@ -30,8 +30,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amstf&show_icons=true&locale=en&layout=compact" alt="Amstf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amstf&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Amstf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amstf&show_icons=true&locale=en" alt="Amstf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amstf&show_icons=true&locale=en&theme=gruvbox" alt="Amstf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amstf&" alt="Amstf" /></p>
