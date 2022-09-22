@@ -13,7 +13,7 @@
 
 <img alt="Night Coding" src="https://github.com/Amstf/Amstf/blob/main/assets/Night-Coding.gif" align="right"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amstf" alt="Amstf" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amstf&theme=gruvbox" alt="Amstf" /></a> </p>
 
 ### 🛠 &nbsp;Tech Stack
 
