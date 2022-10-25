@@ -1,8 +1,9 @@
-### Hi there, It's Ali Mustapha👋
+<!-- ### Hi there, It's Ali Mustapha👋 -->
 
 <!--
 **Amstf/Amstf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h1 align = "center"> Hi there, It's Ali Mustapha 👋</h1> 
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
@@ -11,6 +12,13 @@
 ✉️ &nbsp;You can shoot me an email at ali_mustapha_@outlook.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A9zPM_vKvOjY8D2Go8nmCk5IdCr2fY8H/view) for more details about me. I'm open to feedback and suggestions!
 
+<div align = "center">
+ 
+<a href = "mailto:ali_mustapha_@outlook.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/-outlook-novoforce?style=for-the-badge&logo=outlook&logoColor=white&color=red&labelColor=000000' border='0' alt='Gmail'/></a>
+<a href='https://www.linkedin.com/in/ali-mustapha-476375208/' target='_blank'><img src='https://img.shields.io/badge/-linkedin-novoforce?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&labelColor=000000' border='0' alt='Linkedin'/></a>
+ 
+ 
+</div>
 <img alt="Night Coding" src="https://github.com/Amstf/Amstf/blob/main/assets/Night-Coding.gif" align="right"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amstf&theme=gruvbox" alt="Amstf" /></a> </p>
