@@ -10,7 +10,7 @@
 🔭 &nbsp;I’m currently a research and development engineer at Télécom Paris, IP Paris.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ali_mustapha_@outlook.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A9zPM_vKvOjY8D2Go8nmCk5IdCr2fY8H/view) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://alimustapha-webpage-07928f8fce6e.herokuapp.com/) for more details about me.
 
 <div align = "center">
  
